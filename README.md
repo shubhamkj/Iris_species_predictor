@@ -21,7 +21,7 @@ A machine learning web application to predict the species of Iris flowers based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Iris_species_predictor.git
+   git clone https://github.com/shubhamkj/Iris_species_predictor.git
    cd Iris_species_predictor
    ```
 
@@ -43,6 +43,19 @@ streamlit run app.py
 ```
 
 Open your browser to `http://localhost:8501` and use the sliders to input flower measurements, then click "Predict" to see the species.
+
+## 🌐 Live Demo
+
+This app can be accessed directly from GitHub by deploying it to Streamlit Cloud:
+
+1. Go to [share.streamlit.io](https://share.streamlit.io)
+2. Connect your GitHub account
+3. Select this repository: `shubhamkj/Iris_species_predictor`
+4. Deploy the `app.py` file
+
+Once deployed, you'll get a URL like: `https://your-app-name.streamlit.app`
+
+For now, run it locally as described in Usage.
 
 ## 🧠 Model Details
 
