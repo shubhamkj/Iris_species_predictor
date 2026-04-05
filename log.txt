@@ -1,0 +1,2 @@
+Model Accuracy: 1.00
+Model saved to model.pkl
